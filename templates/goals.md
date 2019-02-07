@@ -3,14 +3,15 @@
 
 ## Goal One
 
+Better pedagogy? 
 
 -----
 
-Benchmark:
+Benchmark: 
 
 
 ## Goal Two
-
+Read more in dropbox
 -----
 
 Benchmark:
